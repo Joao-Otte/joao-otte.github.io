@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 247, 255);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(241, 79, 15);
+    font-size: 60px;
+    text-align: center;
+}
+
+.superparagrafo {
+    font-size: 20px;
+}
+
+.img-arredondada {
+    border-radius: 15px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a:hover {
+    color: red;
+}
